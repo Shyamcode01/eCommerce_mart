@@ -11,5 +11,7 @@ namespace e_commerInventry.Models.product_model
 
         public int CategoryId { get; set; }
         public Category? Category { get; set; }
+
+        public ICollection<Item> Items { get; set; }
     }
 }

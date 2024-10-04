@@ -268,3 +268,4 @@ D:\mvc_file\e-commerInventry\obj\Debug\net8.0\refint\e_commerInventry.dll
 D:\mvc_file\e-commerInventry\obj\Debug\net8.0\e_commerInventry.pdb
 D:\mvc_file\e-commerInventry\obj\Debug\net8.0\e_commerInventry.genruntimeconfig.cache
 D:\mvc_file\e-commerInventry\obj\Debug\net8.0\ref\e_commerInventry.dll
+D:\mvc_file\e-commerInventry\obj\Debug\net8.0\e_commerInventry.sourcelink.json
